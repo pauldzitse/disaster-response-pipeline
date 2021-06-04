@@ -44,7 +44,7 @@ The Project is divided in the following Sections:
 
  
 <li><a id='authors'></a>
-## 3. Authors 
+     ## 3. Authors 
      
    - [Paul Dzitse](https://github.com/pauldzitse)
 
