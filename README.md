@@ -58,10 +58,10 @@ git clone https://github.com/pauldzitse/disaster-response-pipeline
   [Paul Dzitse](https://github.com/pauldzitse)
   
 <li><a id="#License"></a>
-## 4. License
+# 4. License
    
 <li><a id="#acknowledgement"></a>
-## 5. Acknowledgement
+#5. Acknowledgement
     
     [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
     [appen](https://appen.com/) for providing messages dataset to train my model
