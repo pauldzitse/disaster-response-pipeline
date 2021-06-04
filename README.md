@@ -11,7 +11,7 @@
 
 
  <a id='intro'></a>
-  1. Description
+ ## 1. Description
 
 This Project is one of the Data Science Nanodegree Program of [Udacity](https://www.udacity.com/school-of-data-science) in collaboration with  [appen](https://appen.com/). The initial dataset contains pre-labelled tweet and messages from real-life disaster situations. The aim of the project is to build a Natural Language Processing tool that categorize messages.
 
@@ -21,7 +21,7 @@ The Project is divided in the following Sections:
     Machine Learning Pipeline for training a model to be able to classify text message in categories
     Web App tfor showing model results in real time.
       
-<a id="#getting started"></a>
+<a id="getting started"></a>
 ## 2. Getting Started
 
 
