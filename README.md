@@ -1,7 +1,7 @@
 ## Table of Contents
 <li><a href="#intro">1. Description
 <li><a href="#getting started">2. Getting Started
-<li><a href="#dependencies">Dependencies
+  <li><a href="#dependencies">Dependencies
 <li><a href="#installing">Installing
 <li><a href="#executing"> Program Executing
 <li><a href="#authors">3. Authors
