@@ -1,14 +1,13 @@
 ## Table of Contents
-
-    <li><a href="#intro">1. Description
-    <li><a href="#getting started">2. Getting Started
+<li><a href="#intro">1. Description
+<li><a href="#getting started">2. Getting Started
         <li><a href="#dependencies">Dependencies
         <li><a href="#installing">Installing
         <li><a href="#executing">Executing Program:
-    <li><a href="#authors">3. Authors
-    <li><a href="#License">4. License
-    <li><a href="#acknowledgement">5. Acknowledgement
-    <li><a href="#screenshots">6.Screenshots
+ <li><a href="#authors">3. Authors
+ <li><a href="#License">4. License
+ <li><a href="#acknowledgement">5. Acknowledgement
+ <li><a href="#screenshots">6.Screenshots
 
 
  <a id='intro'></a>
@@ -22,11 +21,11 @@ The Project is divided in the following Sections:
     Machine Learning Pipeline for training a model to be able to classify text message in categories
     Web App tfor showing model results in real time.
       
-<li><a href="#getting started">
+<li><a href="#getting started"></a>
 ## 2. Getting Started
 
 
-  <li><a href="#dependencies">
+  <li><a href="#dependencies"></a>
     Dependencies
 
     Python 3.5+ (I used Python 3.7)
@@ -35,14 +34,14 @@ The Project is divided in the following Sections:
     SQLlite Database Libraqries: SQLalchemy
     Web App and Data Visualization: Flask, Plotly
 
-   <li><a href="#installing">
+   <li><a href="#installing"></a>
     Installing
 
 Clone this GIT repository:
 
 git clone https://github.com/pauldzitse/disaster-response-pipeline
 
-     <li><a href="#executing">
+     <li><a href="#executing"></a>
      Executing Program:
 
      Run the following commands in the project's root directory to set up your database and model.
@@ -53,22 +52,22 @@ git clone https://github.com/pauldzitse/disaster-response-pipeline
 
     Go to http://0.0.0.0:3001/
 
-<li><a href="#authors">
+<li><a href="#authors"></a>
 ## 3. Authors
 
   [Paul Dzitse](https://github.com/pauldzitse)
   
-<li><a href="#License">
+<li><a href="#License"></a>
 ## 4. License
    
-  <li><a href="#acknowledgement">
+  <li><a href="#acknowledgement"></a>
 ## 5. Acknowledgement
     
     [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
     [appen](https://appen.com/) for providing messages dataset to train my model
     
     
-<li><a href="#screenshots">
+<li><a href="#screenshots"></a>
 ## 6.Screenshots
     
     
