@@ -1,9 +1,6 @@
 ## Table of Contents
 <li><a href="#intro">1. Description
 <li><a href="#getting started">2. Getting Started
-  <li><a href="#dependencies">Dependencies
-<li><a href="#installing">Installing
-<li><a href="#executing"> Program Executing
 <li><a href="#authors">3. Authors
 <li><a href="#license">4. License
 <li><a href="#acknowledgement">5. Acknowledgement
@@ -38,17 +35,14 @@ The Project is divided in the following Sections:
 - SQLlite Database Libraries: SQLalchemy
  
 - Web App and Data Visualization: Flask, Plotly
-
-<li><a id='installing'></a>
-Installing
+ 
+. Installing
 
 To clone this GIT repository use:
 
 git clone https://github.com/pauldzitse/disaster-response-pipeline
 
-
-a href='executing'></a>
-Program Executing
+  . Program Executing
 
 - To run ETL pipeline that cleans data and stores in database
         python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
