@@ -25,7 +25,7 @@ The Project is divided in the following Sections:
 ## 2. Getting Started
 
 
-  <li><a id="dependencies"></a>
+  <li><a id='dependencies'></a>
     Dependencies
 
     Python 3.5+ (I used Python 3.7)
@@ -34,15 +34,15 @@ The Project is divided in the following Sections:
     SQLlite Database Libraqries: SQLalchemy
     Web App and Data Visualization: Flask, Plotly
 
-   <li><a id="installing"></a>
+   <li><a id='installing'></a>
     Installing
 
-Clone this GIT repository:
+To clone this GIT repository use:
 
 git clone https://github.com/pauldzitse/disaster-response-pipeline
 
-     <li><a id="executing"></a>
-     Executing Program:
+     <a id='executing'></a>
+     Executing Program
 
      Run the following commands in the project's root directory to set up your database and model.
         To run ETL pipeline that cleans data and stores in database, tpye: python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
