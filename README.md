@@ -44,15 +44,15 @@ The Project is divided in the following Sections:
   - Go to <http://0.0.0.0:3001/>
 
  
-<li><a id='authors'></a>
+<a id='authors'></a>
      ## 3. Authors 
      
    - [Paul Dzitse](https://github.com/pauldzitse)
 
-<li><a id='license'></a>
+<a id='license'></a>
 ## 4. License
 
-<li><a id='acknowledgement'></a>
+<a id='acknowledgement'></a>
 ## 5. Acknowledgement
   
   - Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
