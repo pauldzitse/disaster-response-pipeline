@@ -31,7 +31,7 @@ The Project is divided in the following Sections:
  
 ### Installing
 
-To clone this GIT repository use: git clone https://github.com/pauldzitse/disaster-response-pipeline
+ - To clone this GIT repository use: git clone https://github.com/pauldzitse/disaster-response-pipeline
 
  ### Program Executing
 
@@ -44,8 +44,9 @@ To clone this GIT repository use: git clone https://github.com/pauldzitse/disast
 
  
 <li><a id='authors'></a>
-## 3. Authors  
-[Paul Dzitse](https://github.com/pauldzitse)
+## 3. Authors 
+     
+   - [Paul Dzitse](https://github.com/pauldzitse)
 
 <li><a id='license'></a>
 ## 4. License
