@@ -26,31 +26,27 @@ The Project is divided in the following Sections:
  
  Dependencies
  
-- Python 3.5+ (I used Python 3.7
+ - Python 3.5+ (I used Python 3.7
+ - Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+ - Natural Language Process Libraries: NLTK
+ - SQLlite Database Libraries: SQLalchemy
+ - Web App and Data Visualization: Flask, Plotly
  
-- Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
- 
-- Natural Language Process Libraries: NLTK
- 
-- SQLlite Database Libraries: SQLalchemy
- 
-- Web App and Data Visualization: Flask, Plotly
- 
-. Installing
+### Installing
 
 To clone this GIT repository use:
 
 git clone https://github.com/pauldzitse/disaster-response-pipeline
 
-  . Program Executing
+ ### Program Executing
 
-- To run ETL pipeline that cleans data and stores in database
+  - To run ETL pipeline that cleans data and stores in database
         python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
-- To run ML pipeline that trains classifier and saves
+  - To run ML pipeline that trains classifier and saves
         python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
-- Run the following command in the app's directory to run your web app: python run.py
+  - Run the following command in the app's directory to run your web app: python run.py
 
-- Go to http://0.0.0.0:3001/
+  - Go to http://0.0.0.0:3001/
 
  
 <li><a id='authors'></a>
