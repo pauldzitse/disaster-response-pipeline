@@ -1,13 +1,13 @@
 ## Table of Contents
 <li><a href="#intro">1. Description
 <li><a href="#getting started">2. Getting Started
-    <li><a href="#dependencies">Dependencies
-    <li><a href="#installing">Installing
-    <li><a href="#executing">Executing Program:
- <li><a href="#authors">3. Authors
- <li><a href="#license">4. License
- <li><a href="#acknowledgement">5. Acknowledgement
- <li><a href="#screenshots">6.Screenshots
+<li><a href="#dependencies">Dependencies
+<li><a href="#installing">Installing
+<li><a href="#executing">Executing Program:
+<li><a href="#authors">3. Authors
+<li><a href="#license">4. License
+<li><a href="#acknowledgement">5. Acknowledgement
+<li><a href="#screenshots">6.Screenshots
 
 
  <a id='intro'></a>
@@ -60,7 +60,7 @@ Also thanks to [appen](https://appen.com/) for providing messages dataset to tra
     
     
  <li><a id='screenshots'></a>
- # 6.Screenshots
+ # 6. Screenshots
     
     
 
