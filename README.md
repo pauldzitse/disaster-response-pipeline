@@ -28,7 +28,7 @@ Web App for showing model results in real time.
 
 <li><a id='dependencies'></a>
  
-Dependencies
+ Dependencies
  
 - Python 3.5+ (I used Python 3.7
  
@@ -41,13 +41,15 @@ Dependencies
 - Web App and Data Visualization: Flask, Plotly
 
 <li><a id='installing'></a>
-Installing
+ 
+ Installing
 
 To clone this GIT repository use:
 
 git clone https://github.com/pauldzitse/disaster-response-pipeline
-
+ 
 <li><a id='authors'>
+
 ## 3. Authors  
 
 [Paul Dzitse](https://github.com/pauldzitse)
