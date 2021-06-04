@@ -20,10 +20,7 @@ The Project is divided in the following Sections:
 - Web App for showing model results in real time.
      
 <a id='getting started'></a>
-     
-## 2. To start
-<li><a id='dependencies'></a>
-     
+## 2. To start    
 ### Dependencies
  
  - Python 3.5+ (I used Python 3.7
@@ -34,9 +31,7 @@ The Project is divided in the following Sections:
  
 ### Installing
 
-To clone this GIT repository use:
-
-git clone https://github.com/pauldzitse/disaster-response-pipeline
+To clone this GIT repository use: git clone https://github.com/pauldzitse/disaster-response-pipeline
 
  ### Program Executing
 
