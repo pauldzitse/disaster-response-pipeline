@@ -23,6 +23,7 @@ The Project is divided in the following Sections:
 ## 2. Getting Started
 
 <li><a id='dependencies'></a>
+     
 ### Dependencies
  
  - Python 3.5+ (I used Python 3.7
@@ -59,8 +60,8 @@ git clone https://github.com/pauldzitse/disaster-response-pipeline
 <li><a id='acknowledgement'></a>
 ## 5. Acknowledgement
   
-  Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
-  Also big thanks to [appen](https://appen.com/) for providing messages dataset to train my model
+  - Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
+  - Also big thanks to [appen](https://appen.com/) for providing messages dataset to train my model
     
 <li><a id='images'></a>
 ## 6. Imanges
