@@ -5,7 +5,7 @@
     <li><a href="#installing">Installing
     <li><a href="#executing">Executing Program:
  <li><a href="#authors">3. Authors
- <li><a href="#License">4. License
+ <li><a href="#license">4. License
  <li><a href="#acknowledgement">5. Acknowledgement
  <li><a href="#screenshots">6.Screenshots
 
@@ -26,8 +26,7 @@ Web App for showing model results in real time.
 <a id='getting started'></a>
 ## 2. Getting Started
 
-
-  <li><a id='dependencies'></a>
+<li><a id='dependencies'></a>
     Dependencies
        
     Python 3.5+ (I used Python 3.7)
@@ -58,23 +57,23 @@ git clone https://github.com/pauldzitse/disaster-response-pipeline
 
      
 <li><a id='authors'>
- 3. Authors  
+ ## 3. Authors  
 
 [Paul Dzitse](https://github.com/pauldzitse)
         
   
-<li><a id='License'></a>
-# 4. License
+<li><a id='license'></a>
+## 4. License
    
 <li><a id='acknowledgement'></a>
-#5. Acknowledgement
+## 5. Acknowledgement
     
     Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
     Also thanks to [appen](https://appen.com/) for providing messages dataset to train my model
     
     
-<li><a id='screenshots'></a>
-# 6.Screenshots
+ <li><a id='screenshots'></a>
+     # 6.Screenshots
     
     
 
