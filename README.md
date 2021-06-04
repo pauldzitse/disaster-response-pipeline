@@ -66,8 +66,8 @@ git clone https://github.com/pauldzitse/disaster-response-pipeline
 <li><a id='acknowledgement'></a>
 #5. Acknowledgement
     
-    [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
-    [appen](https://appen.com/) for providing messages dataset to train my model
+    Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
+    Also thanks to [appen](https://appen.com/) for providing messages dataset to train my model
     
     
 <li><a id='screenshots'></a>
