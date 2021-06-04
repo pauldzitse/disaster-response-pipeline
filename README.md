@@ -58,5 +58,5 @@ The Project is divided in the following Sections:
   - Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
   - Also big thanks to [appen](https://appen.com/) for providing messages dataset to train my model
 
-<li><a id='images'></a>
+<a id='images'></a>
 ## 6. Images
