@@ -1,9 +1,9 @@
 ## Table of Contents
 <li><a href="#intro">1. Description
 <li><a href="#getting started">2. Getting Started
-        <li><a href="#dependencies">Dependencies
-        <li><a href="#installing">Installing
-        <li><a href="#executing">Executing Program:
+    <li><a href="#dependencies">Dependencies
+    <li><a href="#installing">Installing
+    <li><a href="#executing">Executing Program:
  <li><a href="#authors">3. Authors
  <li><a href="#License">4. License
  <li><a href="#acknowledgement">5. Acknowledgement
@@ -41,7 +41,7 @@ Clone this GIT repository:
 
 git clone https://github.com/pauldzitse/disaster-response-pipeline
 
-     <li><a id="#executing"></a>
+     <li><a id="executing"></a>
      Executing Program:
 
      Run the following commands in the project's root directory to set up your database and model.
@@ -52,23 +52,23 @@ git clone https://github.com/pauldzitse/disaster-response-pipeline
 
     Go to http://0.0.0.0:3001/
 
-<li><a id="#authors"></a>
+<li><a id="authors"></a>
 ## 3. Authors
 
 [Paul Dzitse](https://github.com/pauldzitse)
         
   
-<li><a id="#License"></a>
+<li><a id="License"></a>
 # 4. License
    
-<li><a id="#acknowledgement"></a>
+<li><a id="acknowledgement"></a>
 #5. Acknowledgement
     
     [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
     [appen](https://appen.com/) for providing messages dataset to train my model
     
     
-<li><a href="#screenshots"></a>
+<li><a id="screenshots"></a>
 # 6.Screenshots
     
     
