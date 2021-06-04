@@ -1,6 +1,6 @@
 ## Table of Contents
 <li><a href="#intro">1. Description
-<li><a href="#getting started">2. Getting Started
+<li><a href="#getting started">2. To start
 <li><a href="#authors">3. Authors
 <li><a href="#license">4. License
 <li><a href="#acknowledgement">5. Acknowledgement
@@ -20,8 +20,8 @@ The Project is divided in the following Sections:
 - Web App for showing model results in real time.
      
 <a id='getting started'></a>
-## 2. Getting Started
-
+     
+## 2. To start
 <li><a id='dependencies'></a>
      
 ### Dependencies
