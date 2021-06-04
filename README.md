@@ -45,10 +45,8 @@ To clone this GIT repository use: git clone https://github.com/pauldzitse/disast
  
 <li><a id='authors'></a>
 ## 3. Authors  
-
 [Paul Dzitse](https://github.com/pauldzitse)
 
-  
 <li><a id='license'></a>
 ## 4. License
 
@@ -57,6 +55,6 @@ To clone this GIT repository use: git clone https://github.com/pauldzitse/disast
   
   - Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
   - Also big thanks to [appen](https://appen.com/) for providing messages dataset to train my model
-    
+
 <li><a id='images'></a>
-## 6. Imanges
+## 6. Images
