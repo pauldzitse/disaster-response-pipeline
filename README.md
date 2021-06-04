@@ -54,7 +54,7 @@ git clone https://github.com/pauldzitse/disaster-response-pipeline
 
 <li><a id="#authors"></a>
 ## 3. Authors
-
+<li><a id="#authors"></a>
   [Paul Dzitse](https://github.com/pauldzitse)
   
 <li><a id="#License"></a>
@@ -68,7 +68,7 @@ git clone https://github.com/pauldzitse/disaster-response-pipeline
     
     
 <li><a href="#screenshots"></a>
-## 6.Screenshots
+# 6.Screenshots
     
     
 
