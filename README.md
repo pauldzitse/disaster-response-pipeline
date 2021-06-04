@@ -4,7 +4,7 @@
 <li><a href="#authors">3. Authors
 <li><a href="#license">4. License
 <li><a href="#acknowledgement">5. Acknowledgement
-<li><a href="#screenshots">6.Screenshots
+<li><a href="#images">6. Images
 
 
 <a id='intro'></a>
@@ -70,5 +70,5 @@ Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providin
     
 Also big thanks to [appen](https://appen.com/) for providing messages dataset to train my model
     
-<li><a id='screenshots'></a>
-## 6. Screenshots
+<li><a id='images'></a>
+## 6. Imanges
