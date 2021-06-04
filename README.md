@@ -29,12 +29,13 @@ Web App for showing model results in real time.
 
   <li><a id='dependencies'></a>
     Dependencies
-
+       
     Python 3.5+ (I used Python 3.7)
     Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
     Natural Language Process Libraries: NLTK
-    SQLlite Database Libraqries: SQLalchemy
+    SQLlite Database Libraries: SQLalchemy
     Web App and Data Visualization: Flask, Plotly
+
 
    <li><a id='installing'></a>
     Installing
