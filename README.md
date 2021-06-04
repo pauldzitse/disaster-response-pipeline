@@ -21,11 +21,11 @@ The Project is divided in the following Sections:
     Machine Learning Pipeline for training a model to be able to classify text message in categories
     Web App tfor showing model results in real time.
       
-<li><a href="#getting started"></a>
+<a id="#getting started"></a>
 ## 2. Getting Started
 
 
-  <li><a href="#dependencies"></a>
+  <li><a id="#dependencies"></a>
     Dependencies
 
     Python 3.5+ (I used Python 3.7)
@@ -34,14 +34,14 @@ The Project is divided in the following Sections:
     SQLlite Database Libraqries: SQLalchemy
     Web App and Data Visualization: Flask, Plotly
 
-   <li><a href="#installing"></a>
+   <li><a id="#installing"></a>
     Installing
 
 Clone this GIT repository:
 
 git clone https://github.com/pauldzitse/disaster-response-pipeline
 
-     <li><a href="#executing"></a>
+     <li><a id="#executing"></a>
      Executing Program:
 
      Run the following commands in the project's root directory to set up your database and model.
@@ -52,15 +52,15 @@ git clone https://github.com/pauldzitse/disaster-response-pipeline
 
     Go to http://0.0.0.0:3001/
 
-<li><a href="#authors"></a>
+<li><a id="#authors"></a>
 ## 3. Authors
 
   [Paul Dzitse](https://github.com/pauldzitse)
   
-<li><a href="#License"></a>
+<li><a id="#License"></a>
 ## 4. License
    
-  <li><a href="#acknowledgement"></a>
+<li><a id="#acknowledgement"></a>
 ## 5. Acknowledgement
     
     [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
