@@ -3,8 +3,9 @@
 <li><a href="#files">2. Important folders and files
 <li><a href="#getting started">3. To start
 <li><a href="#authors">4. Authors
-<li><a href="#images">5. Images 
-<li><a href="#acknowledgement">6. Acknowledgement and License
+<li><a href="#images">5. Graphs
+<li><a href="#results">6. Results   
+<li><a href="#acknowledgement">7. Acknowledgement and License
 
 
 <a id='intro'></a>
@@ -59,14 +60,21 @@ The Project is divided in the following Sections:
    - [Paul Dzitse](https://github.com/pauldzitse)
  
 <a id='images'></a>
-## 5. Images  
+## 5. Graphs  
 ![image1](https://user-images.githubusercontent.com/62438271/120896144-85bde580-c620-11eb-8458-07fbf1df4032.png)
 ![image2a](https://user-images.githubusercontent.com/62438271/120896156-91a9a780-c620-11eb-8eb8-8ae8b923107f.png)
 ![image3](https://user-images.githubusercontent.com/62438271/120896165-98381f00-c620-11eb-8d49-8167fed0579d.png)
+     
+<a id='results'></a>
+## 6. Results 
+Once a disaster message is submitted and the Classify Message button is clicked, the app shows the classification of the message by highlighting the categories in light green colour. 
+     
+The image below shows the result of the app after the message *We urgently need clean water, food and tents* was typed in. The obtained categories are: *Request*, +Aid Related*, *Water*, *Food*, *shelter*. 
+   
 ![image4](https://user-images.githubusercontent.com/62438271/120896167-9bcba600-c620-11eb-9a25-87104a3a4d5d.png)
      
 <a id='acknowledgement'></a>
-## 6. Acknowledgement and License
+## 7. Acknowledgement and License
   
   - Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program.
   - Also big thanks to [appen](https://appen.com/) for providing messages dataset to train my model.
