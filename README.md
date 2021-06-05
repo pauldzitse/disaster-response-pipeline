@@ -3,8 +3,8 @@
 <li><a href="#files">2. Important folders and files
 <li><a href="#getting started">3. To start
 <li><a href="#authors">4. Authors
-<li><a href="#acknowledgement">5. Acknowledgement and License
-<li><a href="#images">6. Images
+<li><a href="#images">5. Images 
+<li><a href="#acknowledgement">6. Acknowledgement and License
 
 
 <a id='intro'></a>
@@ -57,12 +57,14 @@ The Project is divided in the following Sections:
 ## 4. Authors 
      
    - [Paul Dzitse](https://github.com/pauldzitse)
+ 
+<a id='images'></a>
+## 5. Images  
+     
+![image](https://user-images.githubusercontent.com/62438271/106411699-266b8100-6446-11eb-89c9-638ec7fea34b.png)
 
 <a id='acknowledgement'></a>
-## 5. Acknowledgement and License
+## 6. Acknowledgement and License
   
   - Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program.
   - Also big thanks to [appen](https://appen.com/) for providing messages dataset to train my model.
-
-<a id='images'></a>
-## 6. Images
