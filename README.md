@@ -61,8 +61,6 @@ The Project is divided in the following Sections:
 <a id='images'></a>
 ## 5. Images  
      
-![image](https://user-images.githubusercontent.com/62438271/106411699-266b8100-6446-11eb-89c9-638ec7fea34b.png)
-
 <a id='acknowledgement'></a>
 ## 6. Acknowledgement and License
   
