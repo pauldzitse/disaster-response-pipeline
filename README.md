@@ -1,10 +1,11 @@
 ## Table of Contents
-<li><a href="#intro">1. Description
-<li><a href="#getting started">2. To start
-<li><a href="#authors">3. Authors
-<li><a href="#license">4. License
-<li><a href="#acknowledgement">5. Acknowledgement
-<li><a href="#images">6. Images
+<li><a href="#intro">1. Project Description
+<li><a href="#files">2. Important folders and files
+<li><a href="#getting started">3. To start
+<li><a href="#authors">4. Authors
+<li><a href="#license">5. License
+<li><a href="#acknowledgement">6. Acknowledgement
+<li><a href="#images">7. Images
 
 
 <a id='intro'></a>
@@ -18,6 +19,17 @@ The Project is divided in the following Sections:
 - Processing Data, ETL Pipeline for extracting data from source, cleaning data and saving them in a proper database structure
 - Machine Learning Pipeline for training a model to be able to classify text message in categories
 - Web App for showing model results in real time.
+     
+ <a id='files'></a>
+ ## Important folders and files
+  - **process_data.py**: This python executable code takes as its input csv files(message data and message categories datasets), and then creates a SQL database
+  - **train_classifier.py**: This code trains the ML model with the SQL data base
+  - **ETL Pipeline Preparation.ipynb**: process_data.py development process
+  - **ML Pipeline Preparation.ipynb**: train_classifier.py. development process
+  - **data**: This folder contains sample messages and categories datasets in csv format.
+  - **app**: contains the run.py to initiate the web app.
+
+
      
 <a id='getting started'></a>
 ## 2. To start    
