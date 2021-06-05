@@ -60,6 +60,10 @@ The Project is divided in the following Sections:
  
 <a id='images'></a>
 ## 5. Images  
+![image1](https://user-images.githubusercontent.com/62438271/120896144-85bde580-c620-11eb-8458-07fbf1df4032.png)
+![image2a](https://user-images.githubusercontent.com/62438271/120896156-91a9a780-c620-11eb-8eb8-8ae8b923107f.png)
+![image3](https://user-images.githubusercontent.com/62438271/120896165-98381f00-c620-11eb-8d49-8167fed0579d.png)
+![image4](https://user-images.githubusercontent.com/62438271/120896167-9bcba600-c620-11eb-9a25-87104a3a4d5d.png)
      
 <a id='acknowledgement'></a>
 ## 6. Acknowledgement and License
