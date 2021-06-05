@@ -3,9 +3,8 @@
 <li><a href="#files">2. Important folders and files
 <li><a href="#getting started">3. To start
 <li><a href="#authors">4. Authors
-<li><a href="#license">5. License
-<li><a href="#acknowledgement">6. Acknowledgement
-<li><a href="#images">7. Images
+<li><a href="#acknowledgement">5. Acknowledgement and License
+<li><a href="#images">6. Images
 
 
 <a id='intro'></a>
@@ -51,7 +50,7 @@ The Project is divided in the following Sections:
       - **python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl**
   - Run the following command in the app's directory to run your web app: 
       - **python run.py**
-  - Go to <http://0.0.0.0:3001/>
+  - Go to <http://0.0.0.0:3001/> or <http://localhost:3001/>
 
  
 <a id='authors'></a>
@@ -59,14 +58,11 @@ The Project is divided in the following Sections:
      
    - [Paul Dzitse](https://github.com/pauldzitse)
 
-<a id='license'></a>
-## 5. License
-
 <a id='acknowledgement'></a>
-## 6. Acknowledgement
+## 5. Acknowledgement and License
   
   - Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
   - Also big thanks to [appen](https://appen.com/) for providing messages dataset to train my model
 
 <a id='images'></a>
-## 7. Images
+## 6. Images
