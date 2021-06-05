@@ -15,8 +15,8 @@ This Project is one of the Data Science Nanodegree Program of [Udacity](https://
 
 The Project is divided in the following Sections:
 
-- Processing Data, ETL Pipeline for extracting data from source, cleaning data and saving them in a proper database structure
-- Machine Learning Pipeline for training a model to be able to classify text message in categories
+- Processing Data, ETL Pipeline for extracting data from source, cleaning data and saving them in a proper database structure.
+- Machine Learning Pipeline for training a model to be able to classify text message in categories.
 - Web App for showing model results in real time.
      
  <a id='files'></a>
@@ -25,7 +25,7 @@ The Project is divided in the following Sections:
   - **train_classifier.py**: This code trains the ML model with the SQL data base
   - **ETL Pipeline Preparation.ipynb**: process_data.py development process
   - **ML Pipeline Preparation.ipynb**: train_classifier.py. development process
-  - **data**: This folder contains sample messages and categories datasets in csv format.
+  - **data**: folder contains sample messages and categories datasets in csv format
   - **app**: contains the run.py to initiate the web app.
 
 <a id='getting started'></a>
@@ -61,8 +61,8 @@ The Project is divided in the following Sections:
 <a id='acknowledgement'></a>
 ## 5. Acknowledgement and License
   
-  - Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
-  - Also big thanks to [appen](https://appen.com/) for providing messages dataset to train my model
+  - Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program.
+  - Also big thanks to [appen](https://appen.com/) for providing messages dataset to train my model.
 
 <a id='images'></a>
 ## 6. Images
