@@ -22,7 +22,7 @@ The Project is divided in the following Sections:
      
  <a id='files'></a>
  ## 2. Important folders and files
-  - **process_data.py**: This python executable code takes as its input csv files(message data and message categories datasets), and then creates a SQL database
+  - **process_data.py**: This python code takes as input csv files(message data and message categories datasets), clean it, and then creates a SQL database
   - **train_classifier.py**: This code trains the ML model with the SQL data base
   - **ETL Pipeline Preparation.ipynb**: process_data.py development process
   - **ML Pipeline Preparation.ipynb**: train_classifier.py. development process
