@@ -21,7 +21,7 @@ The Project is divided in the following Sections:
 - Web App for showing model results in real time.
      
  <a id='files'></a>
- ## Important folders and files
+ ## 2. Important folders and files
   - **process_data.py**: This python executable code takes as its input csv files(message data and message categories datasets), and then creates a SQL database
   - **train_classifier.py**: This code trains the ML model with the SQL data base
   - **ETL Pipeline Preparation.ipynb**: process_data.py development process
@@ -29,10 +29,8 @@ The Project is divided in the following Sections:
   - **data**: This folder contains sample messages and categories datasets in csv format.
   - **app**: contains the run.py to initiate the web app.
 
-
-     
 <a id='getting started'></a>
-## 2. To start    
+## 3. To start    
 ### Dependencies
  
  - Python 3.5+ (I used Python 3.7)
@@ -57,18 +55,18 @@ The Project is divided in the following Sections:
 
  
 <a id='authors'></a>
-## 3. Authors 
+## 4. Authors 
      
    - [Paul Dzitse](https://github.com/pauldzitse)
 
 <a id='license'></a>
-## 4. License
+## 5. License
 
 <a id='acknowledgement'></a>
-## 5. Acknowledgement
+## 6. Acknowledgement
   
   - Thanks to [Udacity](https://www.udacity.com/school-of-data-science) for providing such an excellent Data Science Nanodegree Program
   - Also big thanks to [appen](https://appen.com/) for providing messages dataset to train my model
 
 <a id='images'></a>
-## 6. Images
+## 7. Images
