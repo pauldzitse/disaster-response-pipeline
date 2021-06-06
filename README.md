@@ -69,7 +69,7 @@ The Project is divided in the following Sections:
 ## 6. Results 
 Once a disaster message is submitted and the Classify Message button is clicked, the app shows the classification of the message by highlighting the categories in light green colour. 
      
-The image below shows the result of the app after the message *We urgently need clean water, food and tents* was typed in. The obtained categories are: *Request*, +Aid Related*, *Water*, *Food*, *shelter*. 
+The image below shows the result of the app after the message *We urgently need clean water, food and tents* was typed in. The obtained categories are: *Request*, *Aid Related*, *Water*, *Food*, *shelter*. 
    
 ![image4](https://user-images.githubusercontent.com/62438271/120896167-9bcba600-c620-11eb-9a25-87104a3a4d5d.png)
      
